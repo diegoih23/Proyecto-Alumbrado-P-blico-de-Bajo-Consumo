@@ -25,18 +25,20 @@
 
 # 📍 Atajos del README
 
-| TEMA              | DESCRIPCIÓN                     | ATAJO                                |
-| ----------------- | ------------------------------- | ------------------------------------ |
-| 💻 Descripción    | Información general del sistema | [Ver](#-descripción)                 |
-| 🎯 Objetivos      | Propósito del proyecto          | [Ver](#-objetivos-del-sistema)       |
-| 🏗️ Arquitectura  | Funcionamiento del sistema      | [Ver](#️-arquitectura-del-sistema)   |
-| 🧰 Tecnologías    | Hardware y software utilizados  | [Ver](#-tecnologías-utilizadas)      |
-| ⚙️ Funcionamiento | Lógica del sistema              | [Ver](#️-funcionamiento-del-sistema) |
-| 🔌 Componentes    | Elementos electrónicos          | [Ver](#-componentes-utilizados)      |
-| 🧠 Modularidad    | Módulos del sistema             | [Ver](#-modularidad-del-sistema)     |
-| 🌙 Estados        | Modos de operación              | [Ver](#-estados-del-sistema)         |
-| 🚀 Implementación | Integración hardware/software   | [Ver](#-implementación-del-sistema)  |
-| 🧪 Validación     | Pruebas realizadas              | [Ver](#-verificación-y-validación)   |
+| TEMA              | DESCRIPCIÓN                     | ATAJO                                  |
+| ----------------- | ------------------------------- | -------------------------------------- |
+| 💻 Descripción    | Información general del sistema | [Ver](#-descripción)                   |
+| 🎯 Objetivos      | Objetivos del proyecto          | [Ver](#-objetivos-del-sistema)         |
+| 🏗️ Arquitectura  | Estructura y funcionamiento     | [Ver](#️-arquitectura-del-sistema)     |
+| 🧰 Tecnologías    | Hardware y software utilizados  | [Ver](#-tecnologías-utilizadas)        |
+| ⚙️ Funcionamiento | Lógica inteligente del sistema  | [Ver](#️-funcionamiento-del-sistema)   |
+| 🔌 Componentes    | Componentes electrónicos        | [Ver](#-componentes-utilizados)        |
+| 🧠 Modularidad    | División modular del sistema    | [Ver](#-modularidad-del-sistema)       |
+| 🌙 Estados        | Estados de operación            | [Ver](#-estados-del-sistema)           |
+| 🔄 Cocreación     | Integración hardware/software   | [Ver](#-cocreación-hardware--software) |
+| 🚀 Implementación | Integración y conexiones        | [Ver](#-implementación-del-sistema)    |
+| 🧪 Validación     | Pruebas y verificación          | [Ver](#-verificación-y-validación)     |
+| 💻 Código Fuente  | Acceso al código Arduino        | [Ver](#-código-fuente)                 |
 
 ---
 
@@ -332,6 +334,27 @@ El proyecto fue desarrollado siguiendo cuatro fases principales:
 ✅ Validación de funcionamiento completada
 
 ---
+
+# 💻 Código Fuente
+
+El código completo del sistema embebido desarrollado en Arduino se encuentra disponible en el siguiente enlace:
+
+<div align="center">
+
+## 🔗 [Ver Código Arduino](https://github.com/diegoih23/Proyecto-Alumbrado-P-blico-de-Bajo-Consumo/blob/main/Alumbrado%20P%C3%BAblico%20de%20Bajo%20Consumo.ino)
+
+</div>
+
+### 📌 Funcionalidades implementadas
+
+* Lectura del sensor LDR mediante `analogRead()`
+* Detección de movimiento con sensor PIR
+* Control de brillo utilizando PWM
+* Temporizador inteligente con `millis()`
+* Encendido automático según condiciones ambientales
+* Optimización energética automática
+
+
 
 # 👨‍💻 Desarrolladores
 
