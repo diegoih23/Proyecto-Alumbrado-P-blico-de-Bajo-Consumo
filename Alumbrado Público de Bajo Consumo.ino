@@ -47,7 +47,7 @@ unsigned long tiempoInicioMovimiento = 0;
 // Tiempo que las luces permanecen al máximo brillo
 // 100 ms actualmente
 // Para 5 segundos usar: 5000
-unsigned long duracionEncendido = 100;
+unsigned long duracionEncendido = 5000;
 
 // Indica si el sistema está en modo brillo alto
 bool modoAlto = false;
