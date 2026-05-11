@@ -44,9 +44,9 @@
 
 # 💻 Descripción
 
-El proyecto consiste en un sistema embebido de alumbrado público inteligente capaz de optimizar el consumo energético mediante el control automático de iluminación.
+El proyecto consiste en un sistema embebido de alumbrado público inteligente, el cual es capaz de optimizar el consumo energético mediante el control automático de iluminación.
 
-El sistema utiliza:
+El sistema utiliza: 
 
 * 🌙 Sensor LDR para detectar día y noche.
 * 🚶 Sensor PIR para detección de movimiento.
