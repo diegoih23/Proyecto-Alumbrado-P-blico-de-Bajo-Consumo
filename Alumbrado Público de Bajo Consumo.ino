@@ -26,8 +26,8 @@
 
 // Intensidad baja de iluminación
 // NOTA:
-// 30/255 ≈ 12% de brillo real
-int brilloBajo = 30;
+// 102/255 ≈ 40% de brillo real
+int brilloBajo = 102;
 
 // Intensidad máxima de iluminación
 int brilloAlto = 255;
