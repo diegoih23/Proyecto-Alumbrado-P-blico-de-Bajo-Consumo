@@ -348,11 +348,11 @@ El código completo del sistema embebido desarrollado en Arduino se encuentra di
 ### 📌 Funcionalidades implementadas
 
 * Lectura del sensor LDR mediante `analogRead()`
-* Detección de movimiento con sensor PIR
-* Control de brillo utilizando PWM
+* Detección de movimiento con sensor PIR.
+* Control de brillo utilizando PWM.
 * Temporizador inteligente con `millis()`
-* Encendido automático según condiciones ambientales
-* Optimización energética automática
+* Encendido automático según condiciones ambientales.
+* Optimización energética automática.
 
 
 
