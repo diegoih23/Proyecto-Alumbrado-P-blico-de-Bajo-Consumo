@@ -107,7 +107,7 @@ D --> G[LED 3]
 
 ---
 
-# 🧰 Tecnologías utilizadas
+# 💻🌐 Tecnologías utilizadas
 
 ## 💻 Software
 
